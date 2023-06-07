@@ -19,6 +19,24 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="Create Author Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Author Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Companion Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Companion Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Doctor Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Doctor Table.sql</FullPath>
+        </FileNode>
         <FileNode Name="Create Doctor Who Database.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
@@ -30,6 +48,24 @@
           <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Create Enemy Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Episode Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Episode Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create EpisodeCompanion Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create EpisodeCompanion Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create EpisodeEnemy Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create EpisodeEnemy Table.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
