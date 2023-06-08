@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Doctor Who">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-QGM8BP3:DESKTOP-QGM8BP3\Ashraf">
+          <Created>2023-06-03T16:05:16.0389579+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-QGM8BP3</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Create Author Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Author Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Companion Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Companion Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Doctor Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Doctor Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Doctor Who Database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Doctor Who Database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Enemy Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Enemy Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create Episode Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Episode Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create EpisodeCompanion Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create EpisodeCompanion Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create EpisodeEnemy Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-QGM8BP3:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-QGM8BP3</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create EpisodeEnemy Table.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
