@@ -8,7 +8,6 @@ BEGIN
 	DECLARE @enemies VARCHAR(255)
 	SET @enemies = ''
 
-	
 	SELECT @enemies = COALESCE(@enemies + ', ', '') +  E.EnemyName 
 	FROM tblEnemy E
 	WHERE E.EnemyId IN (
