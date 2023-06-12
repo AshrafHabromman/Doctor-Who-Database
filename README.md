@@ -1,7 +1,7 @@
 
 # Doctor Who Database
 
-This repo is a training on creating Databases and practice on SQL statements
+This repo is training on creating Databases and practice on SQL statements
 
 ### This Repo have 7 branches which are: 
 
@@ -15,4 +15,4 @@ This repo is a training on creating Databases and practice on SQL statements
 
 ### UML Diagram of Doctor Who Database
 
-![UML Diagram](https://github.com/AshrafHabromman/Doctor-Who-Database/tree/main/UML.png)
+![UML Diagram](https://github.com/AshrafHabromman/Doctor-Who-Database/blob/main/UML.png)
